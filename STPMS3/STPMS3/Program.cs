@@ -15,6 +15,11 @@ namespace Lab3
     {
         static void Main(string[] args)
         {
+            //анонимный тип
+            var TRAIN = new { NAME = "red" };
+            Console.WriteLine(TRAIN.NAME);
+            //
+
 
             Console.WriteLine("Общее число мест в поезде: " + Train.allPlaces);
             Train train1 = new Train(548, "Минск", 14.01, 150, 190, 46);
@@ -81,9 +86,13 @@ namespace Lab3
             Console.WriteLine("Приводим к строке (время и номер поездов):");
             Console.WriteLine(train4.Time.ToString());
             Console.WriteLine(train7.Num.ToString());
+           
             Console.ReadKey();
         }
     }
+    /// <summary>
+    /// / 1 11 14
+    /// </summary>
     public partial class Train//частичный класс partial
     {
         protected int id;
@@ -254,6 +263,16 @@ namespace Lab3
             int key = ((int)time * 13 + arrive.Length) / id * 6;
             uint hash = (uint)key;
             return hash;
+        }
+        public int Ref(ref int id)
+        {
+            Console.WriteLine("_________________________________________________________________");
+            int name = 4;
+            id = name;
+          
+            Console.WriteLine(id);
+            
+            return id;
         }
 
     }
