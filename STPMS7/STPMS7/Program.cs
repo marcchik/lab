@@ -4,14 +4,39 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Diagnostics;
 
 
 namespace STPMS5
 {
     class Program
     {
+
         static void Main(string[] args)
         {
+
+            int factorial(int n)
+            {
+                
+                // Факториал отрицательного числа не считается :)
+                Debug.Assert(n >= 0);
+
+                // Если n превысит 10, то это может привести либо к целочисленному
+                // переполнению результата, либо к переполнению стэка.
+                Debug.Assert(n <= 10);
+
+                if (n < 2)
+                {
+                    return 1;
+                }
+                Console.WriteLine(n);
+                Console.WriteLine();
+                return factorial(n - 1) * n;
+              
+            }
+            Console.WriteLine("Введите n");
+            int n = Convert.ToInt32(Console.ReadLine());
+            factorial(n);
             Console.WriteLine();
             Console.WriteLine("1) Исключение: неверно переданы данные");
             try

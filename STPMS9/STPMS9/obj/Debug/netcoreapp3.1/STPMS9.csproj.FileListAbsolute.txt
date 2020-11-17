@@ -1,0 +1,13 @@
+E:\1A УЧЕБА\Лабораторные СТПМС 3 сем\STPMS9\STPMS9\obj\Debug\netcoreapp3.1\STPMS9.csprojAssemblyReference.cache
+E:\1A УЧЕБА\Лабораторные СТПМС 3 сем\STPMS9\STPMS9\obj\Debug\netcoreapp3.1\STPMS9.AssemblyInfoInputs.cache
+E:\1A УЧЕБА\Лабораторные СТПМС 3 сем\STPMS9\STPMS9\obj\Debug\netcoreapp3.1\STPMS9.AssemblyInfo.cs
+E:\1A УЧЕБА\Лабораторные СТПМС 3 сем\STPMS9\STPMS9\obj\Debug\netcoreapp3.1\STPMS9.csproj.CoreCompileInputs.cache
+E:\1A УЧЕБА\Лабораторные СТПМС 3 сем\STPMS9\STPMS9\bin\Debug\netcoreapp3.1\STPMS9.exe
+E:\1A УЧЕБА\Лабораторные СТПМС 3 сем\STPMS9\STPMS9\bin\Debug\netcoreapp3.1\STPMS9.deps.json
+E:\1A УЧЕБА\Лабораторные СТПМС 3 сем\STPMS9\STPMS9\bin\Debug\netcoreapp3.1\STPMS9.runtimeconfig.json
+E:\1A УЧЕБА\Лабораторные СТПМС 3 сем\STPMS9\STPMS9\bin\Debug\netcoreapp3.1\STPMS9.runtimeconfig.dev.json
+E:\1A УЧЕБА\Лабораторные СТПМС 3 сем\STPMS9\STPMS9\bin\Debug\netcoreapp3.1\STPMS9.dll
+E:\1A УЧЕБА\Лабораторные СТПМС 3 сем\STPMS9\STPMS9\bin\Debug\netcoreapp3.1\STPMS9.pdb
+E:\1A УЧЕБА\Лабораторные СТПМС 3 сем\STPMS9\STPMS9\obj\Debug\netcoreapp3.1\STPMS9.dll
+E:\1A УЧЕБА\Лабораторные СТПМС 3 сем\STPMS9\STPMS9\obj\Debug\netcoreapp3.1\STPMS9.pdb
+E:\1A УЧЕБА\Лабораторные СТПМС 3 сем\STPMS9\STPMS9\obj\Debug\netcoreapp3.1\STPMS9.genruntimeconfig.cache
