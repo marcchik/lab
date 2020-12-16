@@ -1,0 +1,14 @@
+D:\STPMS12\STPMS12\bin\Debug\STPMS12.exe.config
+D:\STPMS12\STPMS12\bin\Debug\STPMS12.exe
+D:\STPMS12\STPMS12\bin\Debug\STPMS12.pdb
+D:\STPMS12\STPMS12\obj\Debug\STPMS12.csprojAssemblyReference.cache
+D:\STPMS12\STPMS12\obj\Debug\STPMS12.csproj.CoreCompileInputs.cache
+D:\STPMS12\STPMS12\obj\Debug\STPMS12.exe
+D:\STPMS12\STPMS12\obj\Debug\STPMS12.pdb
+G:\STPMS12\STPMS12\obj\Debug\STPMS12.csprojAssemblyReference.cache
+G:\STPMS12\STPMS12\obj\Debug\STPMS12.csproj.CoreCompileInputs.cache
+G:\STPMS12\STPMS12\obj\Debug\STPMS12.exe
+G:\STPMS12\STPMS12\obj\Debug\STPMS12.pdb
+G:\STPMS12\STPMS12\bin\Debug\STPMS12.exe.config
+G:\STPMS12\STPMS12\bin\Debug\STPMS12.exe
+G:\STPMS12\STPMS12\bin\Debug\STPMS12.pdb

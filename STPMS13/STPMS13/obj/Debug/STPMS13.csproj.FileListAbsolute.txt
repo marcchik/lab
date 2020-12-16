@@ -1,0 +1,10 @@
+D:\STPMS13\STPMS13\obj\Debug\STPMS13.csprojAssemblyReference.cache
+D:\STPMS13\STPMS13\obj\Debug\STPMS13.csproj.CoreCompileInputs.cache
+D:\STPMS13\STPMS13\bin\Debug\STPMS13.exe.config
+D:\STPMS13\STPMS13\bin\Debug\STPMS13.exe
+D:\STPMS13\STPMS13\bin\Debug\STPMS13.pdb
+D:\STPMS13\STPMS13\obj\Debug\STPMS13.exe
+D:\STPMS13\STPMS13\obj\Debug\STPMS13.pdb
+D:\STPMS13\STPMS13\bin\Debug\Newtonsoft.Json.dll
+D:\STPMS13\STPMS13\bin\Debug\Newtonsoft.Json.xml
+D:\STPMS13\STPMS13\obj\Debug\STPMS13.csproj.CopyComplete

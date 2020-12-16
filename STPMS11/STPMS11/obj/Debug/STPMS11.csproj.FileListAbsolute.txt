@@ -1,0 +1,7 @@
+D:\STPMS11\STPMS11\bin\Debug\STPMS11.exe.config
+D:\STPMS11\STPMS11\bin\Debug\STPMS11.exe
+D:\STPMS11\STPMS11\bin\Debug\STPMS11.pdb
+D:\STPMS11\STPMS11\obj\Debug\STPMS11.csprojAssemblyReference.cache
+D:\STPMS11\STPMS11\obj\Debug\STPMS11.csproj.CoreCompileInputs.cache
+D:\STPMS11\STPMS11\obj\Debug\STPMS11.exe
+D:\STPMS11\STPMS11\obj\Debug\STPMS11.pdb
